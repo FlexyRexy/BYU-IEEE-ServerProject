@@ -4,7 +4,7 @@ Steps for setting up your server within BYU networking contraints:
 1. Install Ubuntu
     - Follow these selections during install:
           - Interactive Installation --> Default selection --> Install third-party software for graphics and Wi-Fi hardware --> Erase disk and install Ubuntu
-    - Your name should be "IEEE-<NETID>"
+    - Your name should be "IEEE-"<NETID>""
     - Leave the computer name and username as they should be filled in as you fill out the name field
     - Password: please see a member of the presidency for a password to enter. DO NOT ENTER YOUR OWN. Unapproved passwords may subject you to loss of computer privileges.
     - Timezone: America/Denver (you can click on the map to select the timezone)
@@ -38,7 +38,7 @@ Steps for setting up your server within BYU networking contraints:
     - Set the Country to United States and the timezone to America/Denver
     - The password should be the same as the password you set above in step 1
     - Set the email to your netid@byu.edu email
-    - The hostname (FQDN) should be "<netid>.ieee.local"
+    - The hostname (FQDN) should be ""<netid>".ieee.local"
     - Leave the IP address, gateway, and DNS server as is
     - Select install. The system will automatically reboot
   
