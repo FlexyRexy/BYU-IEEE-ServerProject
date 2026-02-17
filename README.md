@@ -9,3 +9,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/FlexyRexy/BYU-IEEE-Serve
 Copy and run this script in LXC->Console:
 
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/FlexyRexy/BYU-IEEE-ServerProject/main/tailscale-subnet.sh)"
+
+Copy and run this script in the Ubuntu Terminal:
+
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/FlexyRexy/BYU-IEEE-ServerProject/main.autostart-cli.sh)"
