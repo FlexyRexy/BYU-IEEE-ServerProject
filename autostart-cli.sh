@@ -10,7 +10,7 @@ fi
 virsh autostart pve
 
 # Verify autostart status
-virsh dominfo vm_name | grep Autostart
+virsh dominfo pve | grep Autostart
 
 # Autostart the virtual network interface
 virsh net-autostart default
